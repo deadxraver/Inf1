@@ -21,7 +21,7 @@
 
 **Выполнение:**
 
-main.cpp
+[main.cpp](main.cpp)
 
 **Заключение:**
 
@@ -30,4 +30,5 @@ main.cpp
 **Источники:**
 
 https://www.trinary.su/
+
 https://ru.wikipedia.org/wiki/
